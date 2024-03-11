@@ -1,7 +1,6 @@
 ![logo](https://github.com/somesh-mesh/somesh-mesh/blob/main/profile_banner.png)
 <h1 align="center">Hi 👋, I'm Somesh Meshram</h1>
 <h3 align="center">With Great Code,Comes Great Bugs !!!</h3>
-
 <img align="right" alt="coding" width="400" src="https://cybetiq.com/wp-content/themes/CybetiqTheme/img/resource-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-mesh&label=Profile%20views&color=0e75b6&style=flat" alt="somesh-mesh" /> </p>
 
@@ -9,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/someshmeshram007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/someshmeshram007/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/looser_sometimes_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/looser_sometimes_/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/someshmeshram007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="someshmeshram007" height="30" width="40" /></a>
+<a href="https://instagram.com/looser_sometimes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="looser_sometimes_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
