@@ -3,7 +3,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/somesh-mesh?label=Follow&style=social)](https://github.com/somesh-mesh)
 [![GitHub commits](https://img.shields.io/github/commit-activity/y/somesh-mesh/somesh-mesh?style=social)](https://github.com/somesh-mesh)
 
-Welcome to my GitHub profile! I'm an Android and Flutter developer who dives into new technologies like a kid in a candy store—because who doesn't love spending weekends debugging? I’m always eager to learn, currently exploring the MERN stack, because why not add more to the plate? I love contributing to open-source projects; it's like unpaid overtime with the bonus of internet strangers critiquing your code.
+Welcome to my GitHub profile! 
+
+fun main() {
+    // Define the name and about details
+    val name = "Somesh Meshram"
+    val about = "I'm an Android and Flutter developer who dives into new technologies like a kid in a candy store—because who doesn't love spending weekends debugging? I’m always eager to learn, currently exploring the MERN stack, because why not add more to the plate? I love contributing to open-source projects; it's like unpaid overtime with the bonus of internet strangers critiquing your code."
+
+    // Print the name and about details
+    println("Name: $name")
+    println("About: $about")
+}
+
+
+
 
 ## 🚀 About Me
 
