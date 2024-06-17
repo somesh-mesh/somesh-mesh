@@ -1,57 +1,26 @@
-# Hi there, I'm Somesh Meshram 👋
+<h1 align="center">Hi 👋, I'm Somesh Meshram</h1>
+<h3 align="center">Mobile & Web Developer | Java,Kotlin,Dart,Flutter,Android,JavaScript, TypeScript, React, Next.js, Express, and more</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/somesh-mesh?label=Follow&style=social)](https://github.com/somesh-mesh)
-[![GitHub commits](https://img.shields.io/github/commit-activity/y/somesh-mesh/somesh-mesh?style=social)](https://github.com/somesh-mesh)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-mesh" alt="somesh-mesh" /></a> </p>
 
-Welcome to my GitHub profile! 
+<p align="left"> <a href="https://twitter.com/looser_sometime" target="blank"><img src="https://img.shields.io/twitter/follow/looser_sometime?logo=twitter&style=for-the-badge" alt="looser_sometime" /></a> </p>
 
-fun main() {
-    // Define the name and about details
-    val name = "Somesh Meshram"
-    val about = "I'm an Android and Flutter developer who dives into new technologies like a kid in a candy store—because who doesn't love spending weekends debugging? I’m always eager to learn, currently exploring the MERN stack, because why not add more to the plate? I love contributing to open-source projects; it's like unpaid overtime with the bonus of internet strangers critiquing your code."
+- 🔭 I’m currently working on **something Interesting**
 
-    // Print the name and about details
-    println("Name: $name")
-    println("About: $about")
-}
+- 💬 Ask me about **Flutter,Android,Web Apps**
 
+- 📫 How to reach me **meshramsomesh00@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/looser_sometime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="looser_sometime" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/someshmeshram007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="someshmeshram007" height="30" width="40" /></a>
+<a href="https://instagram.com/looser_sometimes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="looser_sometimes_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somesh-mesh&show_icons=true&locale=en&layout=compact" alt="somesh-mesh" /></p>
 
-- 🔭 I’m currently working on mastering Android and Flutter development.
-- 🌱 I’m currently learning the MERN stack.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Android, Flutter, or anything related to development.
-- 📫 How to reach me: 
-  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/looser_sometimes_/)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someshmeshram007/)
-  - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/looser_sometime)
-
-## 🛠️ My Skills
-
-### Languages
-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-- [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](#)
-- [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-
-### Frameworks and Libraries
-- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-
-### Platforms and Tools
-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-- [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-- [![MERN](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mongodb&logoColor=white)](#) (MongoDB, Express.js, React, Node.js)
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
-- [![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)](#)
-
-## 📈 GitHub Stats
-
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=somesh-mesh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-mesh&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somesh-mesh&show_icons=true&locale=en" alt="somesh-mesh" /></p>
