@@ -35,10 +35,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
----
-[![](https://visitcount.itsvg.in/api?id=somesh-mesh&icon=0&color=1)](https://visitcount.itsvg.in)
-
- 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
