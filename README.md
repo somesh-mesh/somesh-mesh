@@ -71,5 +71,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 <div align="center" style="padding-top: 20px;">
-    ### Feel free to show some love... you know, by starring a repo or two. No pressure.    
+
+### Feel free to show some love... you know, by starring a repo or two. No pressure.    
 </div>
