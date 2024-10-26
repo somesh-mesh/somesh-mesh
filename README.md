@@ -3,8 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> 
-         I'm Somesh, a mobile developer on a heroic mission to contribute to the world—because clearly, 
-         what it really needs is yet another app nobody asked for!
+         I'm Somesh, a mobile developer trying to save the world, one pointless app at a time.
 </h1>
 
 <p align="left"> 
