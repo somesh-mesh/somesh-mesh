@@ -68,7 +68,9 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<div align="center" style="padding-top: 20px;">
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+</div>
 
 <div align="center" style="padding-top: 20px;">
 
