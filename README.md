@@ -69,7 +69,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center" style="padding-top: 20px;">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Developer Quote"/>
 </div>
 
 <div align="center" style="padding-top: 20px;">
