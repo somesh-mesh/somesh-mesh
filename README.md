@@ -1,9 +1,15 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hola, 
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Somesh</h1>
+         width="45" /> 
+         I'm Somesh, a mobile developer on a heroic mission to contribute to the world—because clearly, 
+         what it really needs is yet another app nobody asked for!
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-mesh&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=somesh-mesh&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Profile Views" /> 
+</p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -16,7 +22,9 @@
 - ⚡ Fun fact: I spend nearly 8 hours just sitting and wondering what's wrong with this code.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/looser_sometimes_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someshmeshram007/) [![Twitter](https://img.shields.io/twitter/follow/looser_sometime?logo=Twitter&style=for-the-badge)](https://x.com/looser_sometime)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/looser_sometimes_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someshmeshram007/) 
+[![Twitter](https://img.shields.io/twitter/follow/looser_sometime?logo=Twitter&style=for-the-badge)](https://x.com/looser_sometime)
 
 ## 💻 Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -47,20 +55,22 @@
 ![Mac](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2024-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2024-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
 ## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somesh-mesh&theme=vue"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somesh-mesh&theme=vue"/>
 </p>
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-<div align="center">
-         
-   ### Feel free to show some love... you know, by starring a repo or two. No pressure.    
+<div align="center" style="padding-top: 20px;">
+    ### Feel free to show some love... you know, by starring a repo or two. No pressure.    
 </div>
