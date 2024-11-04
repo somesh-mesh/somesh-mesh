@@ -16,9 +16,10 @@
 - 🌱 I’m currently learning more about Web technologies.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with my side projects.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about Android/Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend nearly 8 hours just sitting and wondering what's wrong with this code.
+- 😄 You know who **I** am.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/looser_sometimes_/) 
