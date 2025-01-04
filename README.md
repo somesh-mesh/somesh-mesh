@@ -6,10 +6,6 @@
          I'm Somesh, a mobile developer trying to save the world, one pointless app at a time.
 </h1>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=somesh-mesh&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Profile Views" /> 
-</p>
-
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building something in Autocare.
